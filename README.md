@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web Development and Data Engineering**
 
-- 👨‍💻 All of my projects are available at [diegoray.github.io](diegoray.github.io)
-
 - 💬 Ask me about **Laravel and Django**
 
 - 📫 How to reach me **diegoray911@gmail.com**
