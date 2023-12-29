@@ -1,7 +1,7 @@
-<h1 align="center">Haloo 👋, I'm Diego Ray</h1>
-<h3 align="center">A Junior Full-Stack Developer From Indonesia</h3>
+<h1 align="center">Haloo 👋, I'm Diego</h1>
+<h3 align="center">A Full-Stack Developer From Indonesia</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Data Engineering**
+- 🌱 I’m currently learning **Web Development and Data Engineering**
 
 - 👨‍💻 All of my projects are available at [diegoray.github.io](diegoray.github.io)
 
