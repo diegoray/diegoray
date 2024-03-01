@@ -11,7 +11,9 @@
 
 <h3 align="left">MORE INFO</h3>
 
-- 💬 Ask me about Laravel or Web Development 
+- 💬 Ask me about Laravel or Web Development
+
+- 🐍 I love Python too
 
 - 💻 I am open to doing work remotely
   
